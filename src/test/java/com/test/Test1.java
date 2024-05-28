@@ -14,7 +14,7 @@ public class Test1 {
 		String name="manisha";
 		String name1="manish";
 		String c1="Eviden";
-		String c2="Eviden"
+		String c2="Eviden";
 		assertEquals(name, name1);
 		assertEquals(c1,c2);
 	}

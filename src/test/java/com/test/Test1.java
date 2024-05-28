@@ -12,7 +12,7 @@ public class Test1 {
 	public void testName()
 	{
 		String name="manisha";
-		String name1="manisha";
+		String name1="manish";
 		assertEquals(name, name1);
 	}
 }

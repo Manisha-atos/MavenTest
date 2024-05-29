@@ -17,4 +17,12 @@ public class Test1 {
 		assertEquals(name, name1);
 		
 	}
+	@Test
+	public void testCmp()
+	{
+		String c1="Eviden";
+		String c2="Eviden";		
+		assertEquals(name, name1);
+		
+	}
 }

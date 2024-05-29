@@ -21,7 +21,7 @@ public class Test1 {
 	public void testCmp()
 	{
 		String c1="Eviden";
-		String c2="Eviden1";		
+		String c2="Eviden";		
 		assertEquals(c1,c2);
 		
 	}

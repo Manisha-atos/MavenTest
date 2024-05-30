@@ -10,11 +10,7 @@
       <version>4.8.2</version>  
       <scope>test</scope>  
    <!-- https://mvnrepository.com/artifact/org.apache.maven/maven-plugin-api -->
-<dependency>
-    <groupId>org.apache.maven</groupId>
-    <artifactId>maven-plugin-api</artifactId>
-    <version>3.1.1</version>
-</dependency>
+
 
 
   </dependencies>  

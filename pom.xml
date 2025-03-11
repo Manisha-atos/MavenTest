@@ -8,11 +8,8 @@
       <groupId>junit</groupId>  
       <artifactId>junit</artifactId>  
       <version>4.8.2</version>  
-      <scope>test</scope>  
-   <!-- https://mvnrepository.com/artifact/org.apache.maven/maven-plugin-api -->
-
-
-
+      <scope>test</scope> 
+    </dependency>
   </dependencies>  
 </project>
 

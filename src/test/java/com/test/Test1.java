@@ -25,4 +25,13 @@ public class Test1 {
 		assertEquals(c1,c2);
 		
 	}
+
+	@Test
+	public void testLocation()
+	{
+		String c1="India";
+		String c2="India";		
+		assertEquals(c1,c2);
+		
+	}
 }
